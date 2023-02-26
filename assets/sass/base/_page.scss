@@ -20,7 +20,7 @@
 		@include breakpoint('<=xsmall') {
 			html, body {
 				min-width: 320px;
-				max-width: 981px;
+				max-width: 737px;	//This could be fucking things up
 				margin: 0 auto;
 			}
 		}
