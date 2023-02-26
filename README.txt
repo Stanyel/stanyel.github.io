@@ -30,3 +30,9 @@ Credits:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+
+
+
+
+
+This template has been built on and used gratefully by Stanley Galloway :)
