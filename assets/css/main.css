@@ -3301,11 +3301,11 @@ body, input, select, textarea {
 		-moz-justify-content: -moz-flex-end;
 		-webkit-justify-content: -webkit-flex-end;
 		-ms-justify-content: -ms-flex-end;
-		justify-content: flex-end;/*
+		justify-content: flex-end;
 		-moz-transition: opacity 1s ease, -moz-transform 1s ease;
 		-webkit-transition: opacity 1s ease, -webkit-transform 1s ease;
 		-ms-transition: opacity 1s ease, -ms-transform 1s ease;
-		transition: opacity 1s ease, transform 1s ease; */
+		transition: opacity 1s ease, transform 1s ease;
 		position: relative;
 		cursor: default;
 		text-align: center;
@@ -3420,8 +3420,8 @@ body, input, select, textarea {
 			-webkit-transition: opacity 0.5s ease, -webkit-transform 0.5s ease, visibility 0.5s;
 			-ms-transition: opacity 0.5s ease, -ms-transform 0.5s ease, visibility 0.5s;
 			transition: opacity 0.5s ease, transform 0.5s ease, visibility 0.5s;
-			opacity: 0;
-			visibility: hidden;
+			opacity: 1;
+			visibility: visible;
 		}
 
 			#intro.hidden + #header .logo {
